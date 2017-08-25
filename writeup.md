@@ -25,25 +25,25 @@ The following documents are provided as part of this project report:
 
 [//]: # (Image References)
 
-[calibration1]: ./output/calibration1.png "Calibration 1"
-[calibration2]: ./output/calibration2.png "Calibration 2"
+[calibration1]: ./output_images/calibration1.png "Calibration 1"
+[calibration2]: ./output_images/calibration2.png "Calibration 2"
 
-[filtergray]: ./output/filtergray.png "Gray filter"
-[filterr]: ./output/filterr.png "Red filter"
-[filterl]: ./output/filterl.png "Lightness filter"
-[filtersobel]: ./output/filtersobel.png "Sobel x filter"
-[filterfinal]: ./output/filterfinal.png "Final filter"
+[filtergray]: ./output_images/filtergray.png "Gray filter"
+[filterr]: ./output_images/filterr.png "Red filter"
+[filterl]: ./output_images/filterl.png "Lightness filter"
+[filtersobel]: ./output_images/filtersobel.png "Sobel x filter"
+[filterfinal]: ./output_images/filterfinal.png "Final filter"
 
-[perspective1]: ./output/perspective1.png "Perspective tranform"
-[perspective2]: ./output/perspective2.png "Perspective tranform"
+[perspective1]: ./output_images/perspective1.png "Perspective tranform"
+[perspective2]: ./output_images/perspective2.png "Perspective tranform"
 
-[fit1]: ./output/fit1.png "Curvature fit"
-[fit2]: ./output/fit2.png "Curvature fit"
-[final]: ./output/final.png "Final result"
+[fit1]: ./output_images/fit1.png "Curvature fit"
+[fit2]: ./output_images/fit2.png "Curvature fit"
+[final]: ./output_images/final.png "Final result"
 
-[result1]: ./output/result1.png "Final result"
-[result2]: ./output/result2.png "Final result"
-[result3]: ./output/result3.png "Final result"
+[result1]: ./output_images/result1.png "Final result"
+[result2]: ./output_images/result2.png "Final result"
+[result3]: ./output_images/result3.png "Final result"
 
 
 
@@ -258,7 +258,7 @@ In the section *Process all test images* I have used the complete pipeline to se
 
 It shows that the radius of curvature for the left and right lane are rather similar everywhere (as expected), the car stays within 25 cm from the center (sounds realistic) and that the fit to the line is never lost (reset=0 everywhere)
 
-Here's a [link to my video result](output/result.mp4)
+Here's a [link to my video result](output_images/result.mp4)
 
 ---
 
