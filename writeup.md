@@ -21,7 +21,7 @@ The following documents are provided as part of this project report:
 * **Writeup**: This document
 * **Example images**: Can be found in the [output](output) subdirectory
 * **Result video**: Can also be found in the [output](output) subdirectory
-* **Code**: The code is stored in the jupyter notebook [CarND-Advanced-Lanes v2.ipynb](CarND-Advanced-Lanes v2.ipynb). The structure of the notebook is in line with the Rubric points, and this writeup. Code blocks will be referred based on sections in the notebook. A [pdf](CarND-Advanced-Lanes%20v2.pdf) of this notebook is also provided.
+* **Code**: The code is stored in the jupyter notebook [CarND-Advanced-Lanes%20v2.ipynb](CarND-Advanced-Lanes%20v2.ipynb). The structure of the notebook is in line with the Rubric points, and this writeup. Code blocks will be referred based on sections in the notebook. A [pdf](CarND-Advanced-Lanes%20v2.pdf) of this notebook is also provided.
 
 [//]: # (Image References)
 
